@@ -1,3 +1,4 @@
+//X will be Jobaer Sarker Jesan & Y will be Mohammed Mehedi Hassan Rafi
 public class GuessingGame {
     public static void main(String[] args) {
         int computerNumber = (int) (Math.random()*100 + 1);
