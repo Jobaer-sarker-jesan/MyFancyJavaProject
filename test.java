@@ -31,7 +31,7 @@ public class GuessingGame {
             return "Your guess is too low, try again.\nTry Number: " + count;
         }
         else {
-            return "Your guess is incorrect\nTry Number: " + count;
+            return "Your guess is incorrect\nTry Number:" + count;
         }
     }
 }
